@@ -1,0 +1,58 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "codeLogin": "Code Login",
+    "qrcodeLogin": "Qr Code Login",
+    "forgetPassword": "Forget Password",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "analytics": "Analytics",
+    "workspace": "Workspace"
+  },
+  "action": {
+    "action": "Action",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "import": "Import",
+    "export": "Export",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "reset": "Reset",
+    "search": "Search",
+    "more": "More"
+  },
+  "tenant": {
+    "placeholder": "Please select tenant",
+    "success": "Switch tenant success"
+  },
+  
+    "home": {
+    "title": "Douyin Sentiment Analysis",
+    "index": "Sentiment Analysis"
+  },
+  "zhihu": {
+    "title": "Zhihu Sentiment Analysis",
+    "index": "Sentiment Analysis"
+  },
+  "weibo": {
+    "title": "Weibo Sentiment Analysis",
+    "index": "Sentiment Analysis"
+  },
+  "bilibili": {
+    "title": "Bilibili Sentiment Analysis",
+    "index": "Sentiment Analysis"
+  },
+  "xiaohongshu": {
+    "title": "Xiaohongshu Sentiment Analysis",
+    "index": "Sentiment Analysis"
+  },"sjbig":{
+    "title": "Data Visualization",
+    "index": "Data"
+  }
+}
