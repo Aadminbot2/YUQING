@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 严肃声明：现在、未来都不会有商业版本，所有代码全部开源
 
 **「我喜欢写代码，乐此不疲」**  
@@ -238,3 +239,6 @@
 ![功能图](/.gitee/image/common/ai-feature.png)
 
 ![功能图](/.gitee/image/common/ai-preview.gif)
+=======
+# -
+>>>>>>> c72017e2a98f81aa4381b1b151038ca70d708f04
